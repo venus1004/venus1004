@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/venus1004"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
 
@@ -108,7 +108,7 @@
 <br />
 
 <p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/starbinna/starbinna/blob/main/github-metrics.svg" width="100%" />
+    <img alt="metrics" title="Github Metrics" src="https://github.com/venus1004/venus1004/blob/main/github-metrics.svg" width="100%" />
 </p>
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
@@ -118,8 +118,8 @@
 > GitHub Profile Status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=starbinna&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=v&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venus1004&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 <br />
@@ -127,15 +127,15 @@
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/starbinna/starbinna"><img alt="starbinna's activity graph" src="https://activity-graph.herokuapp.com/graph?username=starbinna&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/venus1004/venus1004"><img alt="venus1004's activity graph" src="https://activity-graph.herokuapp.com/graph?username=venus1004&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
 <p align="right">
-  <a href="https://github.com/starbinna?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/starbinna"/></a>
-  <a href="https://github.com/starbinna?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/starbinna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/starbinna">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=starbinna&style=for-the-badge"/></a>
+  <a href="https://github.com/venus1004?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/venus1004"/></a>
+  <a href="https://github.com/venus1004?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/venus1004?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/venus1004">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=venus1004&style=for-the-badge"/></a>
 </p>
